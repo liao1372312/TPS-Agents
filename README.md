@@ -4,5 +4,4 @@
 
 A brief demonstration of our method is available here:
 
-<video src="./example.mp4"></video>
-
+![example](example.gif)
